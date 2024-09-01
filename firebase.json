@@ -1,0 +1,52 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "callmate-test-2",
+          "appId": "1:356907407948:android:7da854f1979fedab83f2e9",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "callmate-test-2",
+          "configurations": {
+            "android": "1:356907407948:android:7da854f1979fedab83f2e9",
+            "ios": "1:356907407948:ios:89ac2f200b939f7783f2e9",
+            "macos": "1:356907407948:ios:89ac2f200b939f7783f2e9",
+            "web": "1:356907407948:web:7468d88b5ce3a0cf83f2e9",
+            "windows": "1:356907407948:web:8b60cfb35436c90983f2e9"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "asia-east1"
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+
+      ]
+    }
+  ]
+}

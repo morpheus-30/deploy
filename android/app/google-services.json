@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "356907407948",
+    "project_id": "callmate-test-2",
+    "storage_bucket": "callmate-test-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356907407948:android:7da854f1979fedab83f2e9",
+        "android_client_info": {
+          "package_name": "com.seedsai.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHxG6FL7XlS-tbP1sH5_FlfBxVYR0grZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356907407948:android:d8731e9089b349da83f2e9",
+        "android_client_info": {
+          "package_name": "com.seedsai.callmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHxG6FL7XlS-tbP1sH5_FlfBxVYR0grZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356907407948:android:2dae04d7a58dd27883f2e9",
+        "android_client_info": {
+          "package_name": "com.seedsai.callmateweb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHxG6FL7XlS-tbP1sH5_FlfBxVYR0grZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
